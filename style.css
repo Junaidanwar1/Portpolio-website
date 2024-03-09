@@ -1,0 +1,21 @@
+.body{
+    background-color: red;
+}
+.navbar{
+    font-size: large;
+    background-color: black;
+
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .navbar a{
+    overflow: auto;
+    margin: 30px;
+    text-decoration: none;
+    color: azure;
+    
+  }
+  table,tr,td{
+        border: 2px solid black;
+        border-collapse: collapse;
+     }
