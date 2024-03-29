@@ -1,15 +1,14 @@
 .body{
-    background-color: red;
+    background-color: rgb(187, 255, 71);
 }
 .navbar{
     font-size: large;
     background-color: black;
-
     padding: 20px;
     border-radius: 5px;
   }
   .navbar a{
-    overflow: auto;
+    /* overflow: auto; */
     margin: 30px;
     text-decoration: none;
     color: azure;
@@ -19,3 +18,21 @@
         border: 2px solid black;
         border-collapse: collapse;
      }
+  .footor{
+     /* margin-top: 150px; */
+     /* width: 100%;  */
+    padding: 100px 10%;
+    display: flex;
+    background-color: black;
+  }
+  .col-1,h1,h3{
+    color: white;
+
+  }
+  .col-3 a{
+    color:white;
+     display: block;
+     text-decoration: none;
+     margin-bottom: 10px;
+  }
+   
